@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Vercel project link
+.vercel/
+
+# Environment — never commit real keys
+.env
+.env.local
+.env*.local
+# .env.example is intentionally tracked (no real keys)
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

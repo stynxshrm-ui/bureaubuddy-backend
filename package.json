@@ -1,0 +1,13 @@
+{
+  "name": "bureaubuddy-backend",
+  "version": "1.0.0",
+  "description": "BureauBuddy backend – document analysis API",
+  "main": "api/analyze.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
